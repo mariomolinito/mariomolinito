@@ -1,0 +1,3 @@
+markdown: redcarpet
+badeurl: /mariomolinito/
+exclude: ['README.md']
